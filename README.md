@@ -13,9 +13,9 @@ Each folder contains problems based on a specific DSA topic, with:
 
 | Folder Name      | Topics Covered | Status | Link |
 |------------------|----------------|--------|------|
-| `01_Array`        | Basic to advanced array problems (reverse, rotate, sum, intersection, etc.) | ✅ Completed | [View Folder](./01_Array/README.md) |
+| `01_Array`        | Basic to advanced array problems (reverse, rotate, sum, intersection,Linear Search etc.) | ✅ Completed | [View Folder](./01_Array/README.md) |
 | `02_Sorting` *(coming soon)* | Bubble Sort, Insertion Sort, Selection Sort, STL sort, etc. | 🕐 In Progress | — |
-| `03_Searching` *(planned)* | Linear Search, Binary Search (Recursive + Iterative) | 🕐 Coming Soon | — |
+| `03_Searching` *(planned)* |Binary Search| 🕐 Coming Soon | — |
 | `...`            | More folders coming: Strings, LinkedList, Stack, Queue, Trees, Graphs, DP | 🔜 | — |
 
 ---
