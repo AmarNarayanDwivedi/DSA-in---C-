@@ -1,41 +1,42 @@
-# 📁 Array – DSA Series in C++
+# 📘 DSA in C++ – Complete Preparation
 
-This folder contains important **Array problems** with solutions written in C++.  
-Each problem is implemented with a focus on:
-- Clean code
-- Step-by-step logic
-- Time and Space Complexity
+This repository is dedicated to mastering **Data Structures and Algorithms using C++**, with a clear goal of preparing for top tech placements (including 12+ LPA roles).
 
----
-
-## 📌 Problems Solved
-
-| #  | Problem Name             | Status | Key Concepts |
-|----|--------------------------|--------|--------------|
-| 1  | Binary Search            | ✅     | Divide & Conquer, Mid Index |
-| 2  | Find Unique              | ✅     | XOR Logic |
-| 3  | Linear Search            | ✅     | Basic Searching |
-| 4  | Find Max and Min         | ✅     | Iteration, Comparisons |
-| 5  | Pair Sum                 | ✅     | Two-pointer, Brute Force |
-| 6  | Reverse Array            | ✅     | In-place Swap |
-| 7  | Sort 0s and 1s           | ✅     | Dutch National Flag, Two Pointer |
-| 8  | Swap Alternate Elements  | ✅     | Iteration, Index Manipulation |
-| 9  | Triplet Sum              | ✅     | Three Nested Loops, Two-pointer |
-| 10 | Union of Arrays          | ✅     | Set, Merging Arrays |
-| 11 | Intersection of Arrays   | ✅     | Hash Map, Brute Force |
+Each folder contains problems based on a specific DSA topic, with:
+- ✅ Clean and well-commented C++ solutions
+- 📈 Focus on time and space complexity
+- 🧠 Conceptual understanding + hands-on coding
 
 ---
 
+## 📂 Folder-wise Topics Covered
+
+| Folder Name      | Topics Covered | Status | Link |
+|------------------|----------------|--------|------|
+| `01_Array`        | Basic to advanced array problems (reverse, rotate, sum, intersection, etc.) | ✅ Completed | [View Folder](./01_Array/README.md) |
+| `02_Sorting` *(coming soon)* | Bubble Sort, Insertion Sort, Selection Sort, STL sort, etc. | 🕐 In Progress | — |
+| `03_Searching` *(planned)* | Linear Search, Binary Search (Recursive + Iterative) | 🕐 Coming Soon | — |
+| `...`            | More folders coming: Strings, LinkedList, Stack, Queue, Trees, Graphs, DP | 🔜 | — |
+
 ---
 
-## 🧠 How to Practice
-- Go to each `.cpp` file to view solution
-- Understand logic & dry run
-- Practice on platforms like [Leetcode](https://leetcode.com), [GFG](https://geeksforgeeks.org)
+## 🧠 How to Use this Repo
+
+1. Pick a topic (e.g. Array)
+2. Read the `README.md` of that folder for summary
+3. Go through each `.cpp` file — understand and dry run
+4. Practice on platforms like:
+   - [Leetcode](https://leetcode.com/u/j0U4pNczEM/)
+   - [GFG](https://geeksforgeeks.org)
+   - [InterviewBit](https://interviewbit.com)
 
 ---
 
-## 🛠️ How to Run
+## 🚀 Setup & Run Locally
+
 ```bash
+# Compile a file
 g++ filename.cpp -o output
+
+# Run the file
 ./output
