@@ -8,21 +8,23 @@ Each problem is implemented with a focus on:
 
 ---
 
-## ✅ Topics Covered (Conceptually & Code)
-| # | Topic | Status | Description |
-|--|-------|--------|-------------|
-| 1 | Introduction to Arrays | ✅ | Basics of array declaration, indexing |
-| 2 | Find Min & Max | ✅ | Traverse and find min/max values |
-| 3 | Linear Search | ✅ | Search element linearly |
-| 4 | Binary Search | ✅ | Search using binary divide method |
-| 5 | Reverse Array | ✅ | In-place reversal |
-| 6 | Swap Alternate | ✅ | Swap elements in alternate positions |
-| 7 | Array Intersection | 🕐 | Two arrays, common elements |
-| 8 | Pair Sum | 🕐 | Two elements with given sum |
-| 9 | Triplet Sum | 🕐 | Three elements with given sum |
-| 10 | Sort 0s 1s | 🕐 | Dutch National Flag problem |
-| 11 | Move Zeros | 🕐 | Push all 0s to end maintaining order |
-| 12 | Rotate Array | 🕐 | Rotate array by k steps |
+## 📌 Problems Solved
+
+| #  | Problem Name             | Status | Key Concepts |
+|----|--------------------------|--------|--------------|
+| 1  | Binary Search            | ✅     | Divide & Conquer, Mid Index |
+| 2  | Find Unique              | ✅     | XOR Logic |
+| 3  | Linear Search            | ✅     | Basic Searching |
+| 4  | Find Max and Min         | ✅     | Iteration, Comparisons |
+| 5  | Pair Sum                 | ✅     | Two-pointer, Brute Force |
+| 6  | Reverse Array            | ✅     | In-place Swap |
+| 7  | Sort 0s and 1s           | ✅     | Dutch National Flag, Two Pointer |
+| 8  | Swap Alternate Elements  | ✅     | Iteration, Index Manipulation |
+| 9  | Triplet Sum              | ✅     | Three Nested Loops, Two-pointer |
+| 10 | Union of Arrays          | ✅     | Set, Merging Arrays |
+| 11 | Intersection of Arrays   | ✅     | Hash Map, Brute Force |
+
+---
 
 ---
 
