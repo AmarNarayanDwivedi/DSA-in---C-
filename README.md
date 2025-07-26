@@ -1,6 +1,6 @@
 # 📘 DSA in C++ – Complete Preparation
 
-This repository is dedicated to mastering **Data Structures and Algorithms using C++**, with a clear goal of preparing for top tech placements (including 12+ LPA roles).
+This repository is dedicated to mastering **Data Structures and Algorithms using C++**.
 
 Each folder contains problems based on a specific DSA topic, with:
 - ✅ Clean and well-commented C++ solutions
