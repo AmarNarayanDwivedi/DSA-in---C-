@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+
+// finding unique number
 void uniqueNumberFind(int arr[], int size)
 {
     int result = 0;
