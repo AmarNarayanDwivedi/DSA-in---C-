@@ -19,6 +19,7 @@ These problems form the base of most DSA interviews and competitive programming 
 | 8  | Triplet Sum              | ✅     | Three Nested Loops, Two-pointer |
 | 9  | Union of Arrays          | ✅     | Set, Merging Arrays |
 | 10 | Intersection of Arrays   | ✅     | Hash Map, Brute Force |
+| 10 | 2-D Array Basic Problems | ✅     | Searching,Transpose, etc.. |
 
 ---
 
