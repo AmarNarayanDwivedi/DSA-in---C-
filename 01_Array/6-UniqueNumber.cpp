@@ -8,7 +8,7 @@ void uniqueNumberFind(int arr[], int size)
     {
         result = result ^ arr[i];
     }
-    cout << result << endl;
+    cout << "Unique Number in This Array is " << result << endl;
 }
 int main()
 {
