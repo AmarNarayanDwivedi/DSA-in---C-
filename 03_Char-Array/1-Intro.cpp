@@ -63,29 +63,6 @@ void ReverseArray(char arr[], int size)
     }
 }
 
-// Palindrome
-bool checkPalindrom(char arr[], int size)
-{
-    int s = 0;
-    int e = size - 1;
-
-    while (s <= e)
-    {
-        if (arr[s] = arr[e])
-        {
-            s++;
-            e--;
-        }
-        else
-        {
-            return false;
-        }
-    }
-    return true;
-}
-
-// String STL
-
 int main()
 {
     // declaration
@@ -116,12 +93,6 @@ int main()
     // Char Array Reverse
     ReverseArray(arr, length);
     cout << " Reverse Array " << arr << endl;
-
-    // Palindrome
-    bool ans = checkPalindrom(arr, length);
-    cout << " Is given String is Palindrome: " << ans << endl;
-
-    // String STL
 
     return 0;
 }
